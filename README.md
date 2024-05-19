@@ -33,6 +33,14 @@ Considerandos:
 	* Presentar todos los países que tengan en su cadena de nombre de país "uador" o en su cadena de capital "ito".
 
 * Presentar capturas de pantalla de la base de datos en sqlite
+  	- ![Cree tabla paises](img/cree_tabla_paises.png)
+	- ![Datos insertados en SQLite](img/datos_insertados_en_sqlite.png)
+	- ![Lenguaje por cada país](img/lenguaje_por_cada_pais.png)
+	- ![Países capital de Europa](img/paises_capital_de_europa.png)
+	- ![Países con cadena 'uador'](img/paises_con_cadena_uardor.png)
+	- ![Países continente americano](img/paises_continente_americano.png)
+	- ![Por atributo dial](img/por_atributo_dial.png)
+
 
 ### Importante
 * Se sugiere realizar un script por cada tarea: crear entidad; guardar información y consultar información

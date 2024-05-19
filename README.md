@@ -33,17 +33,27 @@ Considerandos:
 	* Presentar todos los países que tengan en su cadena de nombre de país "uador" o en su cadena de capital "ito".
 
 * Presentar capturas de pantalla de la base de datos en sqlite
-  	- ![Cree tabla paises](img/cree_tabla_paises.png)
-	- ![Datos insertados en SQLite](img/datos_insertados_en_sqlite.png)
-	- ![Lenguaje por cada país](img/lenguaje_por_cada_pais.png)
-	- ![Países capital de Europa](img/paises_capital_de_europa.png)
-	- ![Países con cadena 'uador'](img/paises_con_cadena_uardor.png)
-	- ![Países continente americano](img/paises_continente_americano.png)
-	- ![Por atributo dial](img/por_atributo_dial.png)
-
+ ## Taller realizado por
+ 
+ 	## Camilo López y Jorge Armijos
+   
+   	# Se creo e inserto en la base de datos
+  	*![Cree e inserte en la base](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/taller06-Jcod7/main/img/cree%20e%20inserte%20en%20la%20base.png)
+   	# Tabla paises creada en el SQLite
+	*![Cree tabla paises](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/taller06-Jcod7/main/img/cree%20tabla%20paises.png)
+	# Datos insertados en SQLite
+	*![Datos insertados en SQLite](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/taller06-Jcod7/main/img/datos%20insertados%20en%20sqlite.png)
+	# Consulta 1: Todos los países del continente americano
+	*![Países continente americano](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/taller06-Jcod7/main/img/paises%20continente%20americano.png)
+	# Consulta 2: Países de Asia, ordenados por el atributo Dial
+	*![Por atributo dial](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/taller06-Jcod7/main/img/por%20atributo%20dial.png)
+	# Consulta 3: Lenguajes de cada país
+	*![Lenguaje por cada país](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/taller06-Jcod7/main/img/lenguaje%20por%20cada%20pa%C3%ADs.png)
+	# Consulta 4: Los países ordenados por la capital, siempre que el país pertenezca a Europa
+	*![Países capital de Europa](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/taller06-Jcod7/main/img/paises%20capital%20de%20europa.png)
+	# Consulta 5: Todos los países que tengan en su cadena de nombre de país "uador" o en su cadena de capital "ito"
+	*![Países con cadena 'uador'](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/taller06-Jcod7/main/img/paises%20con%20cadena%20uador.png)
 
 ### Importante
 * Se sugiere realizar un script por cada tarea: crear entidad; guardar información y consultar información
-  
-### Taller realizado por
-* Camilo López y Jorge Armijos
+
